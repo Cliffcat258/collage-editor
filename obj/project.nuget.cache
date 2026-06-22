@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VAz7Rc+E6Jw=",
+  "success": true,
+  "projectFilePath": "/home/daniel/Desktop/c#/imageprocessthingy/imageprocessthingy.csproj",
+  "expectedPackageFiles": [
+    "/home/daniel/.nuget/packages/magick.net-q8-x64/14.14.0/magick.net-q8-x64.14.14.0.nupkg.sha512",
+    "/home/daniel/.nuget/packages/magick.net.core/14.14.0/magick.net.core.14.14.0.nupkg.sha512",
+    "/home/daniel/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.9/microsoft.aspnetcore.app.ref.10.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
